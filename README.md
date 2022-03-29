@@ -24,3 +24,10 @@ section unordered-list, seperti berikut.
 <br>Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 ![p](gambar/ss6.png)
 ![p](gambar/ss7.png)
+
+## Membuat Tabel
+<br>Buat file baru dengan nama lab3_tabel.html seperti berikut.
+![p](gambar/ss8.png)
+<br>Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+![p](gambar/ss11.png)
+![p](gambar/ss12.png)
