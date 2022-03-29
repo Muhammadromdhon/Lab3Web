@@ -31,3 +31,9 @@ section unordered-list, seperti berikut.
 <br>Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
 ![p](gambar/ss11.png)
 ![p](gambar/ss12.png)
+
+# Mengatur Margin dan Padding
+<br>Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
+cellspacing pada tag table.
+![p](gambar/ss9.png)
+![p](gambar/ss10.png)
