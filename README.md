@@ -13,3 +13,14 @@
 <br>Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
 ![p](gambar/ss2.png)
 ![p](gambar/ss3.png)
+
+## Membuat Unorder List
+<br>Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada
+section unordered-list, seperti berikut.
+![p](gambar/ss4.png)
+![p](gambar/ss5.png)
+
+## Membuat Description List
+<br>Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+![p](gambar/ss6.png)
+![p](gambar/ss7.png)
