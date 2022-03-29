@@ -37,3 +37,10 @@ section unordered-list, seperti berikut.
 cellspacing pada tag table.
 ![p](gambar/ss9.png)
 ![p](gambar/ss10.png)
+
+# Menggabungkan Sel Data
+<br>Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
+horizontal).
+![p](gambar/ss13.png)
+![p](gambar/ss14.png)
