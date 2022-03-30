@@ -32,15 +32,25 @@ section unordered-list, seperti berikut.
 ![p](gambar/ss11.png)
 ![p](gambar/ss12.png)
 
-# Mengatur Margin dan Padding
+## Mengatur Margin dan Padding
 <br>Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
 cellspacing pada tag table.
 ![p](gambar/ss9.png)
 ![p](gambar/ss10.png)
 
-# Menggabungkan Sel Data
+## Menggabungkan Sel Data
 <br>Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
 menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
 horizontal).
 ![p](gambar/ss13.png)
 ![p](gambar/ss14.png)
+
+## Membuat Form
+<br>Buat file baru daengan nama *lab3_form.html* seperti berikut.
+![p](gambar/ss15.png)
+![p](gambar/ss16.png)
+
+## Menambahkan Style pada Form
+<br>agar tampilan form lebih menarik, bisa ditambahkan *CSS* seperti berikut.
+![p](gambar/ss17.png)
+![p](gambar/ss18.png)
